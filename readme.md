@@ -1,4 +1,4 @@
-# Python Design Patterns
+# Machine Learning Design Patterns
 
 This repository contains code examples and explanations for popular design patterns implemented in Python.
 
